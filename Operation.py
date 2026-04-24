@@ -1,5 +1,5 @@
 x = int(input("Entrez un entier : "))
-y = float(input("Entrez un nombre"))
+y = float(input("Entrez un nombre : " ))
 
 # Addition
 som = x + y
