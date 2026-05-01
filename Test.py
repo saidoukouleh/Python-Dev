@@ -1,3 +1,7 @@
+#Fonction ramdom
+import random
+
+
 print("Hello World")
 
 
